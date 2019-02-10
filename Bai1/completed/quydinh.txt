@@ -1,0 +1,9 @@
+Danh tu rieng la tu co chu cai dau viet hoa, khong dung sau dau '.' va khong chua ki tu dac biet trong do
+(cac ki tu chi nam tu a->z)
+
+task:
+sap xep danh sach theo thu tu tu dien
+cai tien toc do tim kiem 
+xay dung stop_list, mnf_list bang hash map
+
+check tu dau dong
